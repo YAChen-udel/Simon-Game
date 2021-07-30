@@ -1,4 +1,5 @@
 # Simon-Game
+https://yachen-udel.github.io/Simon-Game/
 
 # License
 https://www.appbrewery.co/p/web-development-course-resources/
